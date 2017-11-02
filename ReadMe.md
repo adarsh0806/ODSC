@@ -1,1 +1,1 @@
-ODSC Boston 2017
+ODSC 2017
